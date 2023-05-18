@@ -1,7 +1,6 @@
 var male = document.getElementById("males");
 var female = document.getElementById("females");
 male = "Raj";
-female ="Sunita";
 const maxNumber = 100; // maximum number
 const minNumber = 55; // minimum number
 
